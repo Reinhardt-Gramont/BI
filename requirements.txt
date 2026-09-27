@@ -1,0 +1,7 @@
+streamlit>=1.64
+altair>=6.0
+pandas>=2.2
+numpy>=2.2
+matplotlib>=3.10
+openpyxl>=3.1
+statsmodels>=0.15
